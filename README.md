@@ -25,3 +25,6 @@ Implemented slicing and dicing of data through dashboard filters.
 Final dashboard delivered insights into player performance.
 
 ![image](https://github.com/braineegit/Cricket-Player-Analysis/assets/122742532/b066dddd-d8ec-4a73-bcb2-6d91385a4509)
+
+![image](https://github.com/braineegit/Cricket-Player-Analysis/assets/122742532/e64743d9-b044-4835-b32b-26818bb4323d)
+
